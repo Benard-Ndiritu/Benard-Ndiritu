@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Benard-Ndiritu
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ML
-- 📫 How to reach me @mirror_core on ig
+-   Bsc Mathematics and Computer Science Jomo Kenyatta University of Agriculture and Technology
+- 👀 Skilled in python, django, SQL, AWS, Tableau and Pandas
+- 🌱 Looking forward to specialize on data science,  data engineering and systems testing. 
+- 💞️ I’m looking to collaborate on training ML Models or any other preject that makes use of data.
+- 📫 How to reach me @mirror_core on ig, ndiritubenard99@gmail.com
 - 😄 Pronouns: qmanyd
 - ⚡ Fun fact: I have never laughed neither have I ever smiled.
 
